@@ -1,0 +1,57 @@
+---
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Ben Iyiyim</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css"
+    />
+  </head>
+  <body>
+    <h1>Ben Iyiyim</h1>
+    <p>
+      Ben Iyiyim, deprem bolgesindeki insanlarin durumlarini diger insanlara
+      bildirmeleri icin bir uygulamadir.
+    </p>
+
+    <form action="" id="form">
+      <input type="text" name="name" placeholder="Ad" />
+      <input type="text" name="surname" placeholder="Soyad" />
+      <textarea name="address" id="" cols="30" rows="10" placeholder="Adress"
+      ></textarea>
+
+      <button
+        style="background: #4d9348; font-size: 32px; margin: 12px"
+        type="submit">Ben Iyiyim</button
+      >
+      <button
+        style="background: red;  font-size: 32px; margin: 12px"
+        type="submit">Yardima Ihtiyacim Var</button
+      >
+    </form>
+
+    <script>
+      let form = document.getElementById("form");
+
+      // form.addEventListener("submit", (e) => {
+      // 	e.preventDefault();
+      // 	let data = new FormData(form);
+      // 	let object = {};
+      // 	data.forEach((value, key) => {
+      // 		object[key] = value;
+      // 	});
+      // 	let json = JSON.stringify(object);
+      // 	console.log(json);
+      // });
+
+      // https://docs.google.com/spreadsheets/d/1yqTvnhsOXRJ723Dn0vg3p9wkgBP3RrWAVvCAujxXTFI/edit#gid=1839708717
+      // send this data to google sheets
+    </script>
+  </body>
+</html>
