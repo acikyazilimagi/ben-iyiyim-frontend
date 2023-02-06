@@ -10,5 +10,5 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   integrations: [compress()],
   output: "server",
-  adapter: cloudflare()
+  adapter: cloudflare(),
 });
