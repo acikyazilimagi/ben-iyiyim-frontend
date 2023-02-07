@@ -24,16 +24,7 @@ Beniyiyim.com is a platform where people who got out or were rescued from under 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Kullanılan teknolojiler/Tech Stack:
-
-**Front-end:**
-* HTML
-* CSS
-* Javascript 
-
-**Back-end:**
-* Django
-* PostgreSQL
-
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=&borderRadius=0&fontSize=15&showBorder=false&lineCount=2&theme=github_dark&hideBg=true&hideTitle=true&line1=HTML5,HTML5,E34F26;Javascript,Javascript,F7DF1E;CSS3,CSS3,1572B6;&line2=Django,Django,092E20;PostgreSQL,PostgreSQL,4169E1;)](https://github-readme-tech-stack.vercel.app/api/cards?title=&borderRadius=0&fontSize=15&showBorder=false&lineCount=2&theme=github_dark&hideBg=true&hideTitle=true&line1=HTML5,HTML5,E34F26;Javascript,Javascript,F7DF1E;CSS3,CSS3,1572B6;&line2=Django,Django,092E20;PostgreSQL,PostgreSQL,4169E1;)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -47,5 +38,3 @@ Beniyiyim.com is a platform where people who got out or were rescued from under 
 * Title: #FFFFFF
 * Green Button: #4D9349
 * Red Button:  #FF0000
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
